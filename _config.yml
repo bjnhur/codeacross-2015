@@ -18,10 +18,10 @@ highlighter: pygments
 title:       "Code Across 2015 @Seoul"
 keywords:    "Civic Hacking, 시빅해킹, Code for Seoul, 코드포서울, Codeacross, 코드어크로스, Transprancy, 투명성, Codenamu, 코드나무, Hackathon, 해커톤"
 description: "2015년 전 세계 시빅 해커들이 함께 진행하는 코드어크로스 행사가 서울에서 개최됩니다. 전 세계 활동가들과 함께 우리 지역 사회를 위한 코드에 기여해보세요!"
-source_link: "https://github.com/codeforseoul/codeacross.codeforseoul.org"
+source_link: "https://github.io/bjnhur/codeacross-2015/"
 favicon:     "img/code-across.png"
 touch_icon:  "img/code-across.png"
-google_analytics_key: "UA-59499313-1" ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: #"UA-59499313-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
